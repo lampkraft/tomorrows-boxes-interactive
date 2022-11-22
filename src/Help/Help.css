@@ -1,0 +1,30 @@
+.help {
+	display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    height: 100%;
+    position: absolute;
+    width: 100%;
+}
+.hidden {
+	display: none;
+}
+.help-content {
+	background-color: rgba(0, 0, 0, 1);
+	border-radius: 8px;
+	color: #ccc;
+	font-family: sans-serif;
+	padding: 24px;
+	padding-bottom: 60px;
+	text-align: center;
+	width: 70%;
+	max-width: 500px;
+}
+.help-content h1 {
+	font-size: 24px;
+	margin-bottom: 16px;
+}
+.help-content .content-text {
+	font-size: 18px;
+}

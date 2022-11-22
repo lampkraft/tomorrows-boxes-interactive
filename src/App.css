@@ -1,0 +1,50 @@
+.about-btn {
+	background-color: rgba(255, 255, 255, 0.4);
+	border-radius: 100%;
+	color: #222222;
+	cursor: pointer;
+	font-size: 30px;
+	font-family: sans-serif;
+	font-weight: 900;
+	font-style: normal;
+	margin: 16px;
+	position: absolute;
+	text-align: center;
+	top: 0;
+	right: 0;
+	line-height: 40px;
+	height: 40px;
+	width: 40px;
+	z-index: 9999;
+
+	-webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+     -khtml-user-select: none; /* Konqueror HTML */
+       -moz-user-select: none; /* Old versions of Firefox */
+        -ms-user-select: none; /* Internet Explorer/Edge */
+            user-select: none; /* Non-prefixed version, currently
+                                  supported by Chrome, Opera and Firefox */
+}
+
+.fullscreen-btn {
+	color: rgba(255, 255, 255, 0.4);
+	cursor: pointer;
+	font-size: 16px;
+	font-family: sans-serif;
+	font-weight: 900;
+	font-style: normal;
+	margin: 16px;
+	position: absolute;
+	text-align: center;
+	top: 0;
+	left: 0;
+	z-index: 9999;
+
+	-webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+     -khtml-user-select: none; /* Konqueror HTML */
+       -moz-user-select: none; /* Old versions of Firefox */
+        -ms-user-select: none; /* Internet Explorer/Edge */
+            user-select: none; /* Non-prefixed version, currently
+                                  supported by Chrome, Opera and Firefox */
+}
